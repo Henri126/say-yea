@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.logo1{
+    width: 100px;
+    cursor: pointer;
+    margin: 30px 0;
+}
+.logo2{
+   margin: 0px auto;
+   display: block;
+}
+.logo3{
+    margin:0px auto;
+}
+.logo4{
+    margin:0px auto;
+}
+.logo5{
+    margin:0px auto;
+}
+.logo6{
+    margin:0px auto;
+}
+.logo7{
+    margin:0px auto;
+}
+.logo8{
+    margin:0px auto;
+}
+.logo9{
+    margin:0px auto;
+}
+.logo10{
+    margin:0px auto;
+}
+.logo11{
+    margin:0px auto;
+}
+.logo12{
+    margin:0px auto;
+}
+.logo13{
+    margin:0px auto;
+}
+.logo14{
+    margin:0px auto;
+}
+.logo15{
+    margin:0px auto;
+}
+.logo16{
+    margin:0px auto;
+}
+.logo17{
+    margin:0px auto;
+}
+.logo18{
+    margin:0px auto;
+}
+.logo19{
+    margin:0px auto;
+}
+.logo20{
+    margin:0px auto;
+}
+.logo21{
+    margin:0px auto;
+}
+.logo22{
+    margin:0px auto;
+}
+.owo{
+    margin: 0px auto;
+  text-align: center;
+  color: blue;
+}
+.owo2{
+    margin:1%;
+    text-align: right;
+    color: pink;
+    display: none;
+}
+
+@media screen and (max-width: 600px){
+
+    .logo1{
+    width: 140px;
+    cursor: pointer;
+    margin: 30px 0;      
+    }
+    .logo3{
+        margin:0px auto;
+        display: block; 
+    } 
+    .logo4{
+        margin:0px auto;
+        display: block;
+    }
+    .logo5{
+        margin:0px auto;
+        display: block;
+    }
+    .logo6{
+        margin:0px auto;
+        display: block;
+    }
+    .logo7{
+        margin:0px auto;
+        display: block;
+    }
+    .logo8{
+        margin:0px auto;
+        display: block;
+    }
+    .logo9{
+        margin:0px auto;
+        display: block;
+    }
+    .logo9{
+        margin:0px auto;
+        display: block;
+    }
+    .logo10{
+        margin:0px auto;
+        display: block;
+    }
+    .logo11{
+        margin:0px auto;
+        display: block;
+    }
+    .logo12{
+        margin:0px auto;
+        display: block;
+    }
+    .logo13{
+        margin:0px auto;
+        display: block;
+    }
+    .logo14{
+        margin:0px auto;
+        display: block;
+    }
+    .logo15{
+        margin:0px auto;
+        display: block;
+    }
+    .logo16{
+        margin:0px auto;
+        display: block;
+    }
+    .logo17{
+        margin:0px auto;
+        display: block;
+    }
+    .logo18{
+        margin:0px auto;
+        display: block;
+    }
+    .logo19{
+        margin:0px auto;
+        display: none;
+    }
+    .logo20{
+        margin:0px auto;
+        display: none;
+    }
+    .logo21{
+        margin:0px auto;
+        display: none;
+    }
+    .logo22{
+        margin:0px auto;
+        display: none;
+    }
+
+    .owo{
+       font-size: 155%;
+        margin: 0px auto;
+      text-align: center;
+      color: blue;
+    } 
+    .owo2{
+        font-size: 155%;
+        margin:1%;
+        text-align: right;
+        color: pink;
+        display:block;
+    }
+}
+
+   
+
+ 
+
+
