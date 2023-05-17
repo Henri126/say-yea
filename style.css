@@ -189,16 +189,23 @@
     }
 
     .owo{
-       font-size: 155%;
+       font-size: 160%;
         margin: 0px auto;
       text-align: center;
       color: blue;
     } 
     .owo2{
-        font-size: 155%;
+        font-size: 160%;
         margin:1%;
         text-align: right;
         color: pink;
+        display:block;
+    }
+    .owo3{
+        font-size: 160%;
+        margin:1%;
+        text-align: right;
+        color: yellow;
         display:block;
     }
 }
